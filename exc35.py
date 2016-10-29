@@ -83,6 +83,7 @@ def dead(why):
 
 #start function ! fungsi ini engga memberikan data apapun def start()
 #segalanya bermula dari sini
+def start():
     print "you are in a dark room"
     print "there is a door to your right and left"
     print "which one do you take?"
